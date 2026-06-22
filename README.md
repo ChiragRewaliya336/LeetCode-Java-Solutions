@@ -7,6 +7,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -16,4 +17,8 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
