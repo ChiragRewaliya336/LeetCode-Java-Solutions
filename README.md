@@ -9,6 +9,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0001-two-sum](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -22,5 +23,10 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
