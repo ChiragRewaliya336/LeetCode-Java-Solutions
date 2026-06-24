@@ -17,6 +17,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | ------- |
 | [0035-search-insert-position](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -81,6 +83,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +92,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
