@@ -13,6 +13,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0042-trapping-rain-water](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -69,6 +70,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | ------- |
 | [0007-reverse-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
