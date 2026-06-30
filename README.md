@@ -32,6 +32,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | ------- |
 | [0007-reverse-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
@@ -118,6 +120,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
 ## Counting
 |  |
