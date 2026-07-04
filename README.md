@@ -14,6 +14,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0053-maximum-subarray](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | ------- |
 | [0001-two-sum](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -119,6 +121,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1572-matrix-diagonal-sum) |
