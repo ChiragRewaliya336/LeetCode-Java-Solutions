@@ -24,6 +24,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0013-roman-to-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -121,6 +123,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | ------- |
 | [0075-sort-colors](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -148,6 +151,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0229-majority-element-ii) |
 ## Recursion
 |  |
 | ------- |
