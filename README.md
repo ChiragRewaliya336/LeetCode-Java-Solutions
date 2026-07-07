@@ -68,6 +68,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0027-remove-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0283-move-zeroes) |
@@ -141,6 +142,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
 ## Counting
 |  |
