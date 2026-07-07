@@ -50,6 +50,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0118-pascals-triangle](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0069-sqrtx](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
@@ -144,4 +146,12 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
