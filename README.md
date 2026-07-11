@@ -99,6 +99,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0189-rotate-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -167,6 +168,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
