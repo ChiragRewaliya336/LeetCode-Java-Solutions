@@ -7,6 +7,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0027-remove-element) |
@@ -73,6 +74,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0027-remove-element) |
@@ -116,6 +118,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
