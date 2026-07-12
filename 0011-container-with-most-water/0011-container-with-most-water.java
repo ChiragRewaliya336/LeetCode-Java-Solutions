@@ -12,6 +12,7 @@ class Solution {
         // }
         // return maxarea;
 
+        // optimal:
         int l = 0;
          int r = height.length-1;
          int ma = 0;
