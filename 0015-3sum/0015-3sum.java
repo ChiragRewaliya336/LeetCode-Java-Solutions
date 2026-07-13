@@ -15,7 +15,6 @@ class Solution {
                     Collections.sort(temp);
                     st.add(temp);
                 }
-
                 tr.add(nums[j]);
             }
         }
