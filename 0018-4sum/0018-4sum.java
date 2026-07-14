@@ -10,7 +10,7 @@ class Solution {
         //                 sum += nums[k];
         //                 sum += nums[l];
         //                 if(sum==target){
-        //                     List<Integer> temp = Arrays.asList(nums[i], nums[j], nums[k], nums[l]);
+        //                     List<Integer> temp = Arrays.asList(nums[i], nums[j], nums[k],   nums[l]);
         //                     Collections.sort(temp);
         //                     st.add(temp);
         //                 }
