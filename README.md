@@ -73,6 +73,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -192,4 +193,8 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
