@@ -17,7 +17,7 @@ class Solution {
             }
             else{
                min = Math.min(min, nums[mid]);
-                high --;
+                high--;
             }
         }
         return min;
