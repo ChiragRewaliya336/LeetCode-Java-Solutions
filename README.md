@@ -27,6 +27,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0118-pascals-triangle](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
@@ -70,6 +71,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0069-sqrtx](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
