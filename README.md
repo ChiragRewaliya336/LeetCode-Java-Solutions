@@ -85,6 +85,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -123,6 +124,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
