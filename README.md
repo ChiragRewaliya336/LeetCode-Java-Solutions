@@ -42,6 +42,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0485-max-consecutive-ones](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -89,6 +90,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [0374-guess-number-higher-or-lower](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
