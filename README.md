@@ -1,5 +1,14 @@
-# LeetCode-Java-Solutions
-My LeetCode journey in Java | DSA practice, problem solving, and interview preparation.
+# LeetCode Java Solutions
+
+My LeetCode journey in Java.
+
+## Stats
+- Total Solved: Daily Updating :)
+- Language: Java
+- Goal: 400+ Problems
+
+## About
+Consistently solving LeetCode problems for interview preparation.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
