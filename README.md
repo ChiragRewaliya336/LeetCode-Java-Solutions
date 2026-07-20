@@ -133,6 +133,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -215,6 +216,7 @@ My LeetCode journey in Java | DSA practice, problem solving, and interview prepa
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
 |  |
