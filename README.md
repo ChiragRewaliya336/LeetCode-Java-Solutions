@@ -3,7 +3,7 @@
 My LeetCode journey in Java.
 
 ## Stats
-- Total Solved: Daily Updating :)
+- Total Solved: Continuously Updated
 - Language: Java
 - Goal: 400+ Problems
 
