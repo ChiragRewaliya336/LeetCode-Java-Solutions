@@ -48,6 +48,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0283-move-zeroes](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -100,6 +101,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -187,6 +189,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -198,6 +201,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0073-set-matrix-zeroes](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
@@ -237,4 +241,8 @@ Consistently solving LeetCode problems for interview preparation.
 | ------- |
 | [0278-first-bad-version](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
