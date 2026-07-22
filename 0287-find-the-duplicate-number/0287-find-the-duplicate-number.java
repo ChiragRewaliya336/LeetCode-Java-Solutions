@@ -13,7 +13,6 @@ class Solution {
         HashMap<Integer,Integer>temp = new HashMap<>();
         for(int x : nums){
             if(temp.containsKey(x)){
-                temp.put(x,temp.get(x)+1);
                 ans =x;
                 break;
             }
