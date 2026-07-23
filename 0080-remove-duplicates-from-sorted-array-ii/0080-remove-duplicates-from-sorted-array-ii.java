@@ -9,6 +9,9 @@ class Solution {
                 nums[j] = nums[i];
                 j++;
             }
+            else{
+                continue;
+            }
         }
         return j;
     }
