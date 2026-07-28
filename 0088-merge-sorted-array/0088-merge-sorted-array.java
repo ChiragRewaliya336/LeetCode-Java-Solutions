@@ -1,6 +1,6 @@
 class Solution {
     public int [] merge(int[] nums1, int m, int[] nums2, int n) {
-        int ans[] = new int[m + n];
+ int ans[] = new int[m + n];
 
         for (int i = 0; i < m; i++) {
             ans[i] = nums1[i];
@@ -10,6 +10,9 @@ class Solution {
             ans[i + m] = nums2[i];
         }
         Arrays.sort(ans);
-        return ans;
+        for(int i=0; i<ans.length; i++){
+            nums1[i]= ans[i];
+        }
+        return nums1;
     }
 }
