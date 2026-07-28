@@ -62,6 +62,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [1572-matrix-diagonal-sum](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -217,6 +218,7 @@ Consistently solving LeetCode problems for interview preparation.
 | ------- |
 | [0054-spiral-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -224,6 +226,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0013-roman-to-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Counting
 |  |
 | ------- |
