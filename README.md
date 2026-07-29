@@ -57,6 +57,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0540-single-element-in-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1470-shuffle-the-array) |
@@ -112,6 +113,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0540-single-element-in-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
