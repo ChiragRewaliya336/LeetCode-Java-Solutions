@@ -69,6 +69,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
