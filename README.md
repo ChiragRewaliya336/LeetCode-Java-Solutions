@@ -54,6 +54,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -91,6 +92,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0118-pascals-triangle](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -163,6 +165,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0342-power-of-four](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -253,6 +256,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0231-power-of-two](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -273,4 +277,8 @@ Consistently solving LeetCode problems for interview preparation.
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
