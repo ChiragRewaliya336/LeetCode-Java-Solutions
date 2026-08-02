@@ -8,7 +8,6 @@ class Solution {
         return dp[i][j];
     }
     public boolean stoneGame(int[] piles) {
-        // return true;
         int sum=0;
         for(int i=0; i<piles.length; i++){
             sum += piles[i];
@@ -19,5 +18,8 @@ class Solution {
             return true;
         }
         else return false;
+
+        // Extreme Optimal:
+        // return true;
     }
 }
