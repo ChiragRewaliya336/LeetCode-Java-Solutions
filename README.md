@@ -63,6 +63,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0977-squares-of-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1331-rank-transform-of-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -97,6 +98,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0486-predict-the-winner](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +175,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0877-stone-game](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1406-stone-game-iii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -288,4 +291,13 @@ Consistently solving LeetCode problems for interview preparation.
 | ------- |
 | [0486-predict-the-winner](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
