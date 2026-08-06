@@ -73,6 +73,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [1539-kth-missing-positive-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -253,6 +254,7 @@ Consistently solving LeetCode problems for interview preparation.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
+| [1920-build-array-from-permutation](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
