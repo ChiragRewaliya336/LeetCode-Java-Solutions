@@ -102,6 +102,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0118-pascals-triangle](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0877-stone-game) |
@@ -157,6 +158,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0344-reverse-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -265,6 +267,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0013-roman-to-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0392-is-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Counting
 |  |
