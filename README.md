@@ -188,6 +188,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1406-stone-game-iii) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2413-smallest-even-multiple) |
