@@ -175,6 +175,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0048-rotate-image](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
