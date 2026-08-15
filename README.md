@@ -187,6 +187,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0367-valid-perfect-square](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
