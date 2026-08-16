@@ -79,6 +79,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [1929-concatenation-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2029-stone-game-ix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3731-find-missing-elements](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3731-find-missing-elements) |
@@ -195,6 +196,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [1406-stone-game-iii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2469-convert-the-temperature) |
@@ -218,6 +220,7 @@ Consistently solving LeetCode problems for interview preparation.
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2029-stone-game-ix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -284,6 +287,7 @@ Consistently solving LeetCode problems for interview preparation.
 | ------- |
 | [0169-majority-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
 | ------- |
@@ -319,14 +323,17 @@ Consistently solving LeetCode problems for interview preparation.
 | [0486-predict-the-winner](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
@@ -347,4 +354,8 @@ Consistently solving LeetCode problems for interview preparation.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
