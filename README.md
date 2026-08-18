@@ -83,6 +83,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [2029-stone-game-ix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
