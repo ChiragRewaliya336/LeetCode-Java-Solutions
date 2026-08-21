@@ -59,6 +59,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0485-max-consecutive-ones](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -224,6 +225,7 @@ Consistently solving LeetCode problems for interview preparation.
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0605-can-place-flowers) |
 | [2029-stone-game-ix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
