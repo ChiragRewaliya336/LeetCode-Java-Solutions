@@ -104,6 +104,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0268-missing-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -299,6 +300,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0125-valid-palindrome](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0392-is-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Counting
@@ -306,6 +308,7 @@ Consistently solving LeetCode problems for interview preparation.
 | ------- |
 | [0169-majority-element](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
@@ -381,4 +384,8 @@ Consistently solving LeetCode problems for interview preparation.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
