@@ -306,6 +306,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0344-reverse-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0392-is-subsequence) |
+| [0709-to-lower-case](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0709-to-lower-case) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Counting
 |  |
