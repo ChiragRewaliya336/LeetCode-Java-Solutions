@@ -107,6 +107,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0387-first-unique-character-in-a-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3731-find-missing-elements) |
@@ -307,6 +308,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0387-first-unique-character-in-a-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0709-to-lower-case) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Counting
 |  |
