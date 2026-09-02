@@ -178,6 +178,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0349-intersection-of-two-arrays](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -309,6 +310,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0345-reverse-vowels-of-a-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
