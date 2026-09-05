@@ -1,6 +1,6 @@
 class Solution {
     public int[] twoSum(int[] num, int target) {
-       int st =0;
+        int st =0;
        int ed = num.length-1;    
        while(st<=ed){
          int sum = num[st] + num[ed];
