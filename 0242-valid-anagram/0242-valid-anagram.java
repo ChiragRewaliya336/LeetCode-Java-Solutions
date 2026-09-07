@@ -13,19 +13,16 @@ class Solution {
         // }
         // return false;
 
+       HashMap<Character,Integer> map = new HashMap<>();
         if(s1.length()!=s2.length()) return false;
-        HashMap<Character, Integer> mapA = new HashMap<>();
-        HashMap<Character, Integer> mapB = new HashMap<>();
-        for (int i = 0; i < s1.length(); i++) {
-            char ch = s1.charAt(i);
-            mapA.put(ch, mapA.getOrDefault(ch, 0) + 1);
+        for(int i=0; i<s1.length(); i++){
+            char ch=s1.charAt(i);  
+            map.put(ch, map.getOrDefault(ch, 0)+1);
         }
-        for (int i = 0; i < s2.length(); i++) {
+        for(int i=0; i<s2.length(); i++){
             char ch = s2.charAt(i);
-            mapB.put(ch, mapB.getOrDefault(ch, 0) + 1);
-        }
-        for(char ch : mapA.keySet()){
-            if(!mapB.containsKey(ch) || !mapA.get(ch).equals(mapB.get(ch))) return false;
+            if(!map.containsKey(ch) || map.get(ch)==0) return false;
+            map.put(ch, map.get(ch)-1);
         }
         return true;
     }
