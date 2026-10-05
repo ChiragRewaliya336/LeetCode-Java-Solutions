@@ -65,6 +65,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,6 +156,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0540-single-element-in-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -414,4 +416,8 @@ Consistently solving LeetCode problems for interview preparation.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0836-rectangle-overlap) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
