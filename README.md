@@ -89,6 +89,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [2029-stone-game-ix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -385,6 +386,7 @@ Consistently solving LeetCode problems for interview preparation.
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String Matching
 |  |
