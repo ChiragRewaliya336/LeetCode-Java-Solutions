@@ -68,6 +68,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0852-peak-index-in-a-mountain-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0877-stone-game) |
+| [0922-sort-array-by-parity-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -189,6 +190,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0443-string-compression) |
+| [0922-sort-array-by-parity-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -285,6 +287,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0414-third-maximum-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
