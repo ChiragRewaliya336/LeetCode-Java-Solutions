@@ -157,6 +157,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -190,6 +191,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -219,6 +221,7 @@ Consistently solving LeetCode problems for interview preparation.
 | [0486-predict-the-winner](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ChiragRewaliya336/LeetCode-Java-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
